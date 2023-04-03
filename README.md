@@ -770,7 +770,7 @@ Contributed by: [@aburakayaz](https://github.com/aburakayaz)
 
 Contributed by [@mgsky1](https://github.com/mgsky1)
 
-> I will give you the instructions to show the appropriate image, I want you to display the image in Markdown format. DO NOT show me the markdown CODE, just show the image itself. You need to use the Unsplash API, using the following URL: https://source.unsplash.com/1600x900/? <PUT YOUR QUERY HERE>. Do you get the idea?
+> I will give you the instructions to show the appropriate image, I want you to display the image in Markdown format. DO NOT show me the markdown CODE, just show the image itself. You need to use the Unsplash API, using the following URL:` https://source.unsplash.com/1600x900/? <PUT YOUR QUERY HERE>`. Do you get the idea?
 
 ## Contributors 😍
 
